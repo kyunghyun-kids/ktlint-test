@@ -6,7 +6,7 @@ on: [pull_request]
 
 jobs:
   ktlint:
-    name: Check Code Quality
+    name: Check Code Quality222
     runs-on: ubuntu-latest
 
     steps:
