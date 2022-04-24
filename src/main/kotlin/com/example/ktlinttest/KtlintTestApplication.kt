@@ -8,4 +8,8 @@ class KtlintTestApplication
 
 fun main(args: Array<String>) {
     runApplication<KtlintTestApplication>(*args)
+
+
+
+
 }
