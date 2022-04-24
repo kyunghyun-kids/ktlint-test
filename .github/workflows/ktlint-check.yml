@@ -1,6 +1,6 @@
 # https://github.com/ScaCap/action-ktlint
 
-name: reviewdog
+name: ktlint
 
 on: [pull_request]
 
