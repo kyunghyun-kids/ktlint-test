@@ -9,5 +9,4 @@ class KtlintTestApplicationTests {
     @Test
     fun contextLoads() {
     }
-
 }
